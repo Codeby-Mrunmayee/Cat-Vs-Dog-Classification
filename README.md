@@ -44,4 +44,6 @@ The output will show predictions like:
 
 [Open in Google Colab](https://colab.research.google.com/drive/1h8al2sLK6Ho-hQ-0NbAHuMIttJ7PciAk?usp=sharing)
 
+## Author
+   Mrunmayee Gore
 
