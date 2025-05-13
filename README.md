@@ -37,8 +37,8 @@ To run this project:
 
 The output will show predictions like:
 
- "100.00%  cat."
- "100.00% dog."
+ >"100.00%  cat." or 
+ >"100.00% dog."
 
 ## Try It Yourself
 
